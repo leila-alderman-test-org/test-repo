@@ -1,5 +1,5 @@
 # test-repo
 
-Added a sweet new README
+Added a README to this awesome repo
 
 ~new change~
